@@ -1,6 +1,6 @@
 # Gameplay
 
-## Mobile App for the Gamers.
+### Mobile App for the Gamers.
 
 You can do schedule game with friends...
 
