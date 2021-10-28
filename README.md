@@ -13,3 +13,4 @@
 
 <img src="https://github.com/JeanCarl00s/gameplay/blob/main/src/assets/ReadmeImage.jpg"/>
 
+#### Developed with RocketSeat.
